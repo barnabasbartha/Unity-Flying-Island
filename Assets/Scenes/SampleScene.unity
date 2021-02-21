@@ -326,6 +326,14 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1064237298219837940, guid: 3a62f3c9fcafb734bb0a09bd9b24e442, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 77a6a6f3bc93b144586c91cbfaab8222, type: 2}
+    - target: {fileID: 1064237298219837940, guid: 3a62f3c9fcafb734bb0a09bd9b24e442, type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 9149397257055ee4d98409a358ac1a48, type: 2}
     - target: {fileID: 1479014000014744500, guid: 3a62f3c9fcafb734bb0a09bd9b24e442, type: 3}
       propertyPath: m_Name
       value: Pine1 (1)

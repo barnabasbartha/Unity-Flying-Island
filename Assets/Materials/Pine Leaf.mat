@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Pine Leaf
+  m_Shader: {fileID: -6465566751694194690, guid: e33950f7cb7b45c41a798ec2caea19a1, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - Vector1_339d9315e76f4c4695781fd62fb1a333: 0.3
+    - Vector1_5b4685bd1e744d50ac280879fd2417dd: 1
+    - Vector1_73de80d198ea4155b86a9a7a30177c35: 0.01
+    - Vector1_8b13de51f7904e62ad3a80e1aa7e8023: 0.098
+    m_Colors:
+    - Color_1035e8d333474252b54048b99f67331d: {r: 0.07489321, g: 0.16037738, b: 0.09333098, a: 1}
+    - Vector2_1b9b444a137e48f880476c221f0816dd: {r: 1, g: 1, b: 0, a: 0}
+    - Vector2_43fa6f1810c140cf8307816daa76e528: {r: 0.15, g: 0.15, b: 0, a: 0}
+  m_BuildTextureStacks: []
