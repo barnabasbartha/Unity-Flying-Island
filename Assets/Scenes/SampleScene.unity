@@ -159,6 +159,7 @@ MonoBehaviour:
   onDuration: 2
   offDuration: 4
   durationOffsetPerCloud: 0.45
+  moveX: 2
 --- !u!4 &388156264
 Transform:
   m_ObjectHideFlags: 0
@@ -425,7 +426,7 @@ MonoBehaviour:
     m_Bits: 1
   m_VolumeTrigger: {fileID: 0}
   m_RenderPostProcessing: 1
-  m_Antialiasing: 2
+  m_Antialiasing: 0
   m_AntialiasingQuality: 2
   m_StopNaN: 1
   m_Dithering: 0
@@ -581,6 +582,10 @@ PrefabInstance:
     - target: {fileID: 3526513077453181173, guid: f42c27f5d9e89e444a75eef689747b3f, type: 3}
       propertyPath: m_Name
       value: Windmill
+      objectReference: {fileID: 0}
+    - target: {fileID: 3526513077453181173, guid: f42c27f5d9e89e444a75eef689747b3f, type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 8846308611430863580, guid: f42c27f5d9e89e444a75eef689747b3f, type: 3}
       propertyPath: speed
