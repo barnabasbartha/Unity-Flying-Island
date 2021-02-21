@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/contentModel.xml
+/modules.xml
+/projectSettingsUpdater.xml
+/.idea.Scripts.iml
+# Datasource local storage ignored files
+/../../../../../../../../../:\Data\repo\Unity-Flying-Island\Assets\Scripts\.idea\.idea.Scripts.dir\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
