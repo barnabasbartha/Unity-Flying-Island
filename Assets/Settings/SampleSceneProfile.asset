@@ -67,8 +67,8 @@ MonoBehaviour:
   active: 1
   m_AdvancedMode: 0
   color:
-    m_OverrideState: 0
-    m_Value: {r: 0, g: 0, b: 0, a: 1}
+    m_OverrideState: 1
+    m_Value: {r: 0.14901961, g: 0.20784315, b: 0.3529412, a: 1}
     hdr: 0
     showAlpha: 0
     showEyeDropper: 1
@@ -77,12 +77,12 @@ MonoBehaviour:
     m_Value: {x: 0.5, y: 0.5}
   intensity:
     m_OverrideState: 1
-    m_Value: 0.25
+    m_Value: 0.4
     min: 0
     max: 1
   smoothness:
     m_OverrideState: 1
-    m_Value: 0.4
+    m_Value: 0.46
     min: 0.01
     max: 1
   rounded:
@@ -421,8 +421,8 @@ MonoBehaviour:
   active: 1
   m_AdvancedMode: 0
   redOutRedIn:
-    m_OverrideState: 0
-    m_Value: 100
+    m_OverrideState: 1
+    m_Value: 105
     min: -200
     max: 200
   redOutGreenIn:
@@ -432,7 +432,7 @@ MonoBehaviour:
     max: 200
   redOutBlueIn:
     m_OverrideState: 1
-    m_Value: -5
+    m_Value: 5
     min: -200
     max: 200
   greenOutRedIn:
