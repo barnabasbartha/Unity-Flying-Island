@@ -97,7 +97,7 @@ LightmapSettings:
     m_ExportTrainingData: 0
     m_TrainingDataDestination: TrainingData
     m_LightProbeSampleCountMultiplier: 4
-  m_LightingDataAsset: {fileID: 0}
+  m_LightingDataAsset: {fileID: 112000000, guid: 89de1cc67db4b4840b7c0beb2043a845, type: 2}
   m_LightingSettings: {fileID: 4890085278179872738, guid: 477cc4148fad3449482a3bc3178594e2, type: 2}
 --- !u!196 &4
 NavMeshSettings:
@@ -1069,7 +1069,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 867610145851072353, guid: 1c126054bc35e4c458c39b3dcf260c31, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 3.4384
+      value: 3.4289
       objectReference: {fileID: 0}
     - target: {fileID: 867610145851072353, guid: 1c126054bc35e4c458c39b3dcf260c31, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1823,7 +1823,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 867610145851072353, guid: 1c126054bc35e4c458c39b3dcf260c31, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 3.4312
+      value: 3.4293
       objectReference: {fileID: 0}
     - target: {fileID: 867610145851072353, guid: 1c126054bc35e4c458c39b3dcf260c31, type: 3}
       propertyPath: m_LocalPosition.z
@@ -3196,7 +3196,7 @@ Light:
   m_Lightmapping: 1
   m_LightShadowCasterMode: 0
   m_AreaSize: {x: 1, y: 1}
-  m_BounceIntensity: 4
+  m_BounceIntensity: 1
   m_ColorTemperature: 6570
   m_UseColorTemperature: 0
   m_BoundingSphereOverride: {x: 1.02e-43, y: 2.1909955e-31, z: 4.5905e-41, w: 0}
@@ -3225,6 +3225,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 24582525694777281, guid: f42c27f5d9e89e444a75eef689747b3f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 67d1fed70c363144493d0d311dabcf88, type: 2}
     - target: {fileID: 1044075659839942564, guid: f42c27f5d9e89e444a75eef689747b3f, type: 3}
       propertyPath: m_RootOrder
       value: 4
@@ -3281,6 +3285,10 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 6423920114871333234, guid: f42c27f5d9e89e444a75eef689747b3f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f1048723570736c4e9cb31aa56e24f0a, type: 2}
     - target: {fileID: 7523539769066497420, guid: f42c27f5d9e89e444a75eef689747b3f, type: 3}
       propertyPath: m_CastShadows
       value: 0
@@ -3301,6 +3309,10 @@ PrefabInstance:
       propertyPath: speed
       value: 60
       objectReference: {fileID: 0}
+    - target: {fileID: 9142573182341214803, guid: f42c27f5d9e89e444a75eef689747b3f, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f1048723570736c4e9cb31aa56e24f0a, type: 2}
     - target: {fileID: 9148192327846261636, guid: f42c27f5d9e89e444a75eef689747b3f, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 

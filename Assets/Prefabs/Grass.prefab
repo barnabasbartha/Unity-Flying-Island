@@ -88,7 +88,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -7511558181221131132, guid: 8a5ab817178c00c45bb4004da4a43fc7, type: 3}
       propertyPath: m_CastShadows
-      value: 0
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 8a5ab817178c00c45bb4004da4a43fc7, type: 3}
+      propertyPath: m_StaticShadowCaster
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: -7511558181221131132, guid: 8a5ab817178c00c45bb4004da4a43fc7, type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -97,6 +101,10 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 8a5ab817178c00c45bb4004da4a43fc7, type: 3}
       propertyPath: m_Name
       value: Grass
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 8a5ab817178c00c45bb4004da4a43fc7, type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8a5ab817178c00c45bb4004da4a43fc7, type: 3}
